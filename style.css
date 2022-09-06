@@ -1,0 +1,45 @@
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+.input{
+    background-color: #eeeeee;
+    width: 1362.8px;
+    height: 62.4px;
+    text-align: center;
+    margin-left: 5%;
+    }
+    .table{
+        width:1362.8px;
+        height: 74.4px;
+        margin-left: 5%;
+        display: flex;
+        margin-top: 2px;
+        justify-content: space-between;
+    }
+    .box-1{
+        background-color:rgb(126,229,218);
+        width: 503.79px;
+        height: 76.4px;
+        text-align: center;
+        font-size: 16px;
+    }
+    .box-2{
+        background-color:rgb(112,204,194) ;
+        width: 272.7px;
+        height: 76.4px;
+        text-align: center;
+        font-size: 13px;
+    }
+    .box-3{
+        background-color: #62b3aa;
+        width: 583.11px;
+        height: 76px;
+        text-align: center;
+        font-size: 13px;
+    }
+    .footer{
+        font-size: small;
+        text-align: center;
+    }
